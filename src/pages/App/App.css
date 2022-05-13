@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+.rhymePage {
+  display: flex !important;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.newRhymeComp{
+  width: 25%;
+}
