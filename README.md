@@ -1,7 +1,7 @@
 # Rapify
 
 ## Description
-This is an app that can help rappers find 10 words rhymes and can pratice to use these words in the tect area of the app.  
+The app is way to practice your rhyme scheme and skills in turn to become a better poet, writer and rapper.
 
 ## ScreenShot
 
