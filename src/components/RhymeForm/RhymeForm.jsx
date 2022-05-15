@@ -2,7 +2,8 @@ import { useState } from "react";
 import * as rhymebrainAPI from '../../utilities/rhymebrain-api'
 
 
-export default function RhymeForm({ setApiResponse }) {
+
+export default function RhymeForm({ setApiResponse, apiResponse }) {
     const [rhymeWord, setRhymeWord] = useState('')
      
     
@@ -12,7 +13,6 @@ export default function RhymeForm({ setApiResponse }) {
     async function handleSubmit(evt) {
         evt.preventDefault();
         const apiResponse = await rhymebrainAPI.getRhyme(rhymeWord)
-        // console.log(apiResponse[0].word)
         setApiResponse(apiResponse)
     }
 

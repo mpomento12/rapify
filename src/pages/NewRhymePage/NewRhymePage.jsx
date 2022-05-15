@@ -5,7 +5,6 @@ import TextAreaForm from '../../components/TextAreaForm/TextAreaForm'
 export default function NewRhymePage () {
 
     const [apiResponse, setApiResponse] = useState(null)
-    // const words = apiResponse
     return(
         <div className="rhymePage">
             <RhymeForm setApiResponse={setApiResponse} apiResponse={ apiResponse } />
