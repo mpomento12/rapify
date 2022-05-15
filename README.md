@@ -5,7 +5,7 @@ This is an app that can help rappers find 10 words rhymes and can pratice to use
 
 ## ScreenShot
 
-![ScreenShot 1] (https://user-images.githubusercontent.com/55121344/168483843-0258f168-2258-49ee-9a54-b04c1abfa28c.png)
+![rapify1](https://user-images.githubusercontent.com/55121344/168484695-2f80eac1-0125-481d-8319-b32a419eba00.jpeg)
 
 ## IceBox
 * Wish I could have added the save feature for Rhyme Hstory Pages
